@@ -86,6 +86,5 @@ class TTT:
             else:
                 print("Invalid choice. Please select 1, 2, or 3.")
 
-# Create a game instance and start the menu
 game = TTT()
 game.menu()
